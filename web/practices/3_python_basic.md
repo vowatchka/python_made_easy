@@ -167,7 +167,8 @@ print(f"Меня зовут {name}, а мой возраст - {age}")
 ## Задание 9
 
 Исправьте синтаксическую ошибку в следующих строках кода:
-```
+
+```python
 words = [cat, window, defenestrate]
 for w in words:
     print(w, len(w))
@@ -190,7 +191,8 @@ for w in words:
 ## Задание 10
 
 Исправьте синтаксическую ошибку в следующих строках кода:
-```
+
+```python
 a, b = 0, 1
 while a < 15:
 print(a, end=',')
