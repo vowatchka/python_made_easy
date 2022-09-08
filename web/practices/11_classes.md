@@ -4,7 +4,7 @@
 
 Рассмотрим следующее определение класса:
 
-```
+```python
 class Yourclass:
     marks = 10
     name = "ABC"
@@ -38,15 +38,12 @@ class Yourclass:
         
         
 inst = Yourclass(5, "Владимир")
-inst
+inst.display()
 ```
 
-
-
-
-    <__main__.Yourclass at 0x1986880dd00>
-
-
+    5
+    Владимир
+    
 
 ## Задание 2
 
