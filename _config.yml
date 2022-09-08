@@ -4,3 +4,4 @@ logo: /web/assets/img/logo.jpg
 theme: jekyll-theme-minimal
 show_downloads: true
 google_analytics:
+search: true
