@@ -1,6 +1,4 @@
 ipython==8.4.0
 notebook==6.4.12
 Pillow==9.2.0
-flake8==5.0.4
-black==22.6.0
-isort==5.10.1
+requests==2.28.1
